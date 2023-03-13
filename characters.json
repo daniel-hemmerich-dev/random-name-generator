@@ -1,0 +1,11 @@
+{
+  "characters": [
+    "a", "b", "c", "e", "j", "n", "o", "q", "r", "s", "v"
+  ],
+  "consonants": [
+    "b", "c", "j", "n", "q", "r", "s", "v"
+  ],
+  "vowls": [
+    "a", "e", "o"
+  ]
+}
